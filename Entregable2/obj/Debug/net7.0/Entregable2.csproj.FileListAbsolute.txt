@@ -1,0 +1,28 @@
+C:\Users\Oscar Julian\Downloads\Entregable2\bin\Debug\net7.0\Entregable2.exe
+C:\Users\Oscar Julian\Downloads\Entregable2\bin\Debug\net7.0\Entregable2.deps.json
+C:\Users\Oscar Julian\Downloads\Entregable2\bin\Debug\net7.0\Entregable2.runtimeconfig.json
+C:\Users\Oscar Julian\Downloads\Entregable2\bin\Debug\net7.0\Entregable2.dll
+C:\Users\Oscar Julian\Downloads\Entregable2\bin\Debug\net7.0\Entregable2.pdb
+C:\Users\Oscar Julian\Downloads\Entregable2\obj\Debug\net7.0\Entregable2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Julian\Downloads\Entregable2\obj\Debug\net7.0\Entregable2.AssemblyInfoInputs.cache
+C:\Users\Oscar Julian\Downloads\Entregable2\obj\Debug\net7.0\Entregable2.AssemblyInfo.cs
+C:\Users\Oscar Julian\Downloads\Entregable2\obj\Debug\net7.0\Entregable2.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Julian\Downloads\Entregable2\obj\Debug\net7.0\Entregable2.dll
+C:\Users\Oscar Julian\Downloads\Entregable2\obj\Debug\net7.0\refint\Entregable2.dll
+C:\Users\Oscar Julian\Downloads\Entregable2\obj\Debug\net7.0\Entregable2.pdb
+C:\Users\Oscar Julian\Downloads\Entregable2\obj\Debug\net7.0\Entregable2.genruntimeconfig.cache
+C:\Users\Oscar Julian\Downloads\Entregable2\obj\Debug\net7.0\ref\Entregable2.dll
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Entregable2\bin\Debug\net7.0\Entregable2.exe
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Entregable2\bin\Debug\net7.0\Entregable2.deps.json
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Entregable2\bin\Debug\net7.0\Entregable2.runtimeconfig.json
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Entregable2\bin\Debug\net7.0\Entregable2.dll
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Entregable2\bin\Debug\net7.0\Entregable2.pdb
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Entregable2\obj\Debug\net7.0\Entregable2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Entregable2\obj\Debug\net7.0\Entregable2.AssemblyInfoInputs.cache
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Entregable2\obj\Debug\net7.0\Entregable2.AssemblyInfo.cs
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Entregable2\obj\Debug\net7.0\Entregable2.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Entregable2\obj\Debug\net7.0\Entregable2.dll
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Entregable2\obj\Debug\net7.0\refint\Entregable2.dll
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Entregable2\obj\Debug\net7.0\Entregable2.pdb
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Entregable2\obj\Debug\net7.0\Entregable2.genruntimeconfig.cache
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Entregable2\obj\Debug\net7.0\ref\Entregable2.dll
