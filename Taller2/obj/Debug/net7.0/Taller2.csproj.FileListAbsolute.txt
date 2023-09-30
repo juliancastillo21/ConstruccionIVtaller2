@@ -1,0 +1,14 @@
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Taller2\bin\Debug\net7.0\Taller2.exe
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Taller2\bin\Debug\net7.0\Taller2.deps.json
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Taller2\bin\Debug\net7.0\Taller2.runtimeconfig.json
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Taller2\bin\Debug\net7.0\Taller2.dll
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Taller2\bin\Debug\net7.0\Taller2.pdb
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Taller2\obj\Debug\net7.0\Taller2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Taller2\obj\Debug\net7.0\Taller2.AssemblyInfoInputs.cache
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Taller2\obj\Debug\net7.0\Taller2.AssemblyInfo.cs
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Taller2\obj\Debug\net7.0\Taller2.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Taller2\obj\Debug\net7.0\Taller2.dll
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Taller2\obj\Debug\net7.0\refint\Taller2.dll
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Taller2\obj\Debug\net7.0\Taller2.pdb
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Taller2\obj\Debug\net7.0\Taller2.genruntimeconfig.cache
+C:\Users\Oscar Julian\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Documentos\ConstruccionIV\Taller2\obj\Debug\net7.0\ref\Taller2.dll
